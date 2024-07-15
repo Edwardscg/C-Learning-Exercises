@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Adittion")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("For")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3932f111511ae51c0640b863ec0e6d8f270042f")]
-[assembly: System.Reflection.AssemblyProductAttribute("Adittion")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Adittion")]
+[assembly: System.Reflection.AssemblyProductAttribute("For")]
+[assembly: System.Reflection.AssemblyTitleAttribute("For")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
