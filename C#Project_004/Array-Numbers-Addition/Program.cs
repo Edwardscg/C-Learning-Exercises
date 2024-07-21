@@ -27,4 +27,4 @@ for (int i = 0; i < numbers.Length; i++)
     sum += numbers[i];
 }
 
-Console.WriteLine("Sum of the numbers in the array is: " + sum);
+Console.WriteLine("Sum of the numbers in the array: " + sum);

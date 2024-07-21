@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Array-Numbers-Addition")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+706311da3acae082b32eb1ccd45bd02f743ce07f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df66b7164039108259dba92376e5ed6330c5ad7d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Array-Numbers-Addition")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Array-Numbers-Addition")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
