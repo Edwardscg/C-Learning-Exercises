@@ -1,0 +1,15 @@
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_001\Mathematical_Operations\bin\Debug\net8.0\Mathematical_Operations.exe
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_001\Mathematical_Operations\bin\Debug\net8.0\Mathematical_Operations.deps.json
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_001\Mathematical_Operations\bin\Debug\net8.0\Mathematical_Operations.runtimeconfig.json
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_001\Mathematical_Operations\bin\Debug\net8.0\Mathematical_Operations.dll
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_001\Mathematical_Operations\bin\Debug\net8.0\Mathematical_Operations.pdb
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_001\Mathematical_Operations\obj\Debug\net8.0\Mathematical_Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_001\Mathematical_Operations\obj\Debug\net8.0\Mathematical_Operations.AssemblyInfoInputs.cache
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_001\Mathematical_Operations\obj\Debug\net8.0\Mathematical_Operations.AssemblyInfo.cs
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_001\Mathematical_Operations\obj\Debug\net8.0\Mathematical_Operations.csproj.CoreCompileInputs.cache
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_001\Mathematical_Operations\obj\Debug\net8.0\Mathematical_Operations.sourcelink.json
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_001\Mathematical_Operations\obj\Debug\net8.0\Mathematical_Operations.dll
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_001\Mathematical_Operations\obj\Debug\net8.0\refint\Mathematical_Operations.dll
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_001\Mathematical_Operations\obj\Debug\net8.0\Mathematical_Operations.pdb
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_001\Mathematical_Operations\obj\Debug\net8.0\Mathematical_Operations.genruntimeconfig.cache
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_001\Mathematical_Operations\obj\Debug\net8.0\ref\Mathematical_Operations.dll

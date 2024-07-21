@@ -12,3 +12,4 @@ C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Proj
 C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_0001\Adittion\obj\Debug\net8.0\Adittion.pdb
 C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_0001\Adittion\obj\Debug\net8.0\Adittion.genruntimeconfig.cache
 C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_0001\Adittion\obj\Debug\net8.0\ref\Adittion.dll
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_0001\Adittion\obj\Debug\net8.0\Adittion.sourcelink.json

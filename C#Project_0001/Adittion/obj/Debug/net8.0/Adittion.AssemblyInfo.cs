@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Adittion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3932f111511ae51c0640b863ec0e6d8f270042f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+706311da3acae082b32eb1ccd45bd02f743ce07f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Adittion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Adittion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

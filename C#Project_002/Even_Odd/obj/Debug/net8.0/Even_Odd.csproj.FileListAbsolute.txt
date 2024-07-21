@@ -1,0 +1,15 @@
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_002\Even_Odd\obj\Debug\net8.0\Even_Odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_002\Even_Odd\obj\Debug\net8.0\Even_Odd.AssemblyInfoInputs.cache
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_002\Even_Odd\obj\Debug\net8.0\Even_Odd.AssemblyInfo.cs
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_002\Even_Odd\obj\Debug\net8.0\Even_Odd.csproj.CoreCompileInputs.cache
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_002\Even_Odd\obj\Debug\net8.0\Even_Odd.sourcelink.json
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_002\Even_Odd\bin\Debug\net8.0\Even_Odd.exe
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_002\Even_Odd\bin\Debug\net8.0\Even_Odd.deps.json
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_002\Even_Odd\bin\Debug\net8.0\Even_Odd.runtimeconfig.json
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_002\Even_Odd\bin\Debug\net8.0\Even_Odd.dll
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_002\Even_Odd\bin\Debug\net8.0\Even_Odd.pdb
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_002\Even_Odd\obj\Debug\net8.0\Even_Odd.dll
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_002\Even_Odd\obj\Debug\net8.0\refint\Even_Odd.dll
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_002\Even_Odd\obj\Debug\net8.0\Even_Odd.pdb
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_002\Even_Odd\obj\Debug\net8.0\Even_Odd.genruntimeconfig.cache
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_002\Even_Odd\obj\Debug\net8.0\ref\Even_Odd.dll
