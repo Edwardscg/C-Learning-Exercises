@@ -27,7 +27,7 @@ static int Power(int num1, int num2)
     else
     {
         int result = 1;
-        for (int i=0; i<num2; i++)
+        for (int i = 0; i < num2; i++)
         {
             result *= num1;
         }
@@ -61,7 +61,7 @@ static int Num2Validation(int num)
         {
             Console.WriteLine("No se puede dividir por cero, ingrese un número diferente de cero");
             num = Convert.ToInt32(Console.ReadLine());
-        }while (num==0);
+        } while (num == 0);
         return num;
     }
     else
@@ -72,41 +72,49 @@ static int Num2Validation(int num)
 }
 
 Console.WriteLine("Bienvenido a mi calculadora");
-Console.WriteLine("Ingrese la operación a realizar:(+, -, *, /, **)");
+Console.WriteLine("Ingrese la operación a realizar:(+, -, *, /, **) ó '0' para salir.");
 string? operation = Console.ReadLine();
 
-int number1 = 0;
-int number2 = 0;
-
-switch (operation)
+do
 {
-    case "+":
-        number1 = Num1DataEntry(number1);
-        number2 = Num2DataEntry(number2);
-        Console.WriteLine($"Resultado de la operación: {Sum(number1, number2)}");
-        break;
-    case "-":
-        number1 = Num1DataEntry(number1);
-        number2 = Num2DataEntry(number2);
-        Console.WriteLine($"Resultado de la operación: {Subtraction(number1, number2)}");
-        break;
-    case "*":
-        number1 = Num1DataEntry(number1);
-        number2 = Num2DataEntry(number2);
-        Console.WriteLine($"Resultado de la operación: {Multiplication(number1, number2)}");
-        break;
-    case "/":
-        number1 = Num1DataEntry(number1);
-        number2 = Num2DataEntry(number2);
-        number2 = Num2Validation(number2);
-        Console.WriteLine($"Resultado de la operación: {Division(number1, number2)}");
-        break;
-    case "**":
-        number1 = Num1DataEntry(number1);
-        number2 = Num2DataEntry(number2);
-        Console.WriteLine($"Resultado de la operación: {Power(number1, number2)}");
-        break;
-    default:
-        Console.WriteLine("Operación no válida");
-        break;
-}
+    int number1 = 0;
+    int number2 = 0;
+
+    switch (operation)
+    {
+        case "+":
+            number1 = Num1DataEntry(number1);
+            number2 = Num2DataEntry(number2);
+            Console.WriteLine($"Resultado de la operación: {Sum(number1, number2)}");
+            break;
+        case "-":
+            number1 = Num1DataEntry(number1);
+            number2 = Num2DataEntry(number2);
+            Console.WriteLine($"Resultado de la operación: {Subtraction(number1, number2)}");
+            break;
+        case "*":
+            number1 = Num1DataEntry(number1);
+            number2 = Num2DataEntry(number2);
+            Console.WriteLine($"Resultado de la operación: {Multiplication(number1, number2)}");
+            break;
+        case "/":
+            number1 = Num1DataEntry(number1);
+            number2 = Num2DataEntry(number2);
+            number2 = Num2Validation(number2);
+            Console.WriteLine($"Resultado de la operación: {Division(number1, number2)}");
+            break;
+        case "**":
+            number1 = Num1DataEntry(number1);
+            number2 = Num2DataEntry(number2);
+            Console.WriteLine($"Resultado de la operación: {Power(number1, number2)}");
+            break;
+        default:
+            Console.WriteLine("Operación no válida");
+            break;
+
+    }
+    Console.WriteLine("Ingrese la operación a realizar:(+, -, *, /, **) ó '0' para salir.");
+    operation = Console.ReadLine();
+} while (operation != "0");
+
+Console.WriteLine("I hope i've helped.");
