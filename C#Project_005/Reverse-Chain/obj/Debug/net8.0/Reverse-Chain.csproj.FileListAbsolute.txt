@@ -1,0 +1,15 @@
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_005\Reverse-Chain\obj\Debug\net8.0\Reverse-Chain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_005\Reverse-Chain\obj\Debug\net8.0\Reverse-Chain.AssemblyInfoInputs.cache
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_005\Reverse-Chain\obj\Debug\net8.0\Reverse-Chain.AssemblyInfo.cs
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_005\Reverse-Chain\obj\Debug\net8.0\Reverse-Chain.csproj.CoreCompileInputs.cache
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_005\Reverse-Chain\obj\Debug\net8.0\Reverse-Chain.sourcelink.json
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_005\Reverse-Chain\bin\Debug\net8.0\Reverse-Chain.exe
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_005\Reverse-Chain\bin\Debug\net8.0\Reverse-Chain.deps.json
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_005\Reverse-Chain\bin\Debug\net8.0\Reverse-Chain.runtimeconfig.json
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_005\Reverse-Chain\bin\Debug\net8.0\Reverse-Chain.dll
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_005\Reverse-Chain\bin\Debug\net8.0\Reverse-Chain.pdb
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_005\Reverse-Chain\obj\Debug\net8.0\Reverse-Chain.dll
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_005\Reverse-Chain\obj\Debug\net8.0\refint\Reverse-Chain.dll
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_005\Reverse-Chain\obj\Debug\net8.0\Reverse-Chain.pdb
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_005\Reverse-Chain\obj\Debug\net8.0\Reverse-Chain.genruntimeconfig.cache
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_005\Reverse-Chain\obj\Debug\net8.0\ref\Reverse-Chain.dll
