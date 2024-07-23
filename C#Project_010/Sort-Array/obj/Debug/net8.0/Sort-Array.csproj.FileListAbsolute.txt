@@ -1,0 +1,15 @@
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_010\Sort-Array\obj\Debug\net8.0\Sort-Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_010\Sort-Array\obj\Debug\net8.0\Sort-Array.AssemblyInfoInputs.cache
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_010\Sort-Array\obj\Debug\net8.0\Sort-Array.AssemblyInfo.cs
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_010\Sort-Array\obj\Debug\net8.0\Sort-Array.csproj.CoreCompileInputs.cache
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_010\Sort-Array\obj\Debug\net8.0\Sort-Array.sourcelink.json
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_010\Sort-Array\bin\Debug\net8.0\Sort-Array.exe
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_010\Sort-Array\bin\Debug\net8.0\Sort-Array.deps.json
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_010\Sort-Array\bin\Debug\net8.0\Sort-Array.runtimeconfig.json
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_010\Sort-Array\bin\Debug\net8.0\Sort-Array.dll
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_010\Sort-Array\bin\Debug\net8.0\Sort-Array.pdb
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_010\Sort-Array\obj\Debug\net8.0\Sort-Array.dll
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_010\Sort-Array\obj\Debug\net8.0\refint\Sort-Array.dll
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_010\Sort-Array\obj\Debug\net8.0\Sort-Array.pdb
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_010\Sort-Array\obj\Debug\net8.0\Sort-Array.genruntimeconfig.cache
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_010\Sort-Array\obj\Debug\net8.0\ref\Sort-Array.dll

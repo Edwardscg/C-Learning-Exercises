@@ -1,0 +1,15 @@
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_009\Prime-Numbers\obj\Debug\net8.0\Prime-Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_009\Prime-Numbers\obj\Debug\net8.0\Prime-Numbers.AssemblyInfoInputs.cache
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_009\Prime-Numbers\obj\Debug\net8.0\Prime-Numbers.AssemblyInfo.cs
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_009\Prime-Numbers\obj\Debug\net8.0\Prime-Numbers.csproj.CoreCompileInputs.cache
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_009\Prime-Numbers\obj\Debug\net8.0\Prime-Numbers.sourcelink.json
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_009\Prime-Numbers\bin\Debug\net8.0\Prime-Numbers.exe
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_009\Prime-Numbers\bin\Debug\net8.0\Prime-Numbers.deps.json
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_009\Prime-Numbers\bin\Debug\net8.0\Prime-Numbers.runtimeconfig.json
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_009\Prime-Numbers\bin\Debug\net8.0\Prime-Numbers.dll
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_009\Prime-Numbers\bin\Debug\net8.0\Prime-Numbers.pdb
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_009\Prime-Numbers\obj\Debug\net8.0\Prime-Numbers.dll
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_009\Prime-Numbers\obj\Debug\net8.0\refint\Prime-Numbers.dll
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_009\Prime-Numbers\obj\Debug\net8.0\Prime-Numbers.pdb
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_009\Prime-Numbers\obj\Debug\net8.0\Prime-Numbers.genruntimeconfig.cache
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_009\Prime-Numbers\obj\Debug\net8.0\ref\Prime-Numbers.dll

@@ -1,0 +1,15 @@
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_008\Factorial\obj\Debug\net8.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_008\Factorial\obj\Debug\net8.0\Factorial.AssemblyInfoInputs.cache
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_008\Factorial\obj\Debug\net8.0\Factorial.AssemblyInfo.cs
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_008\Factorial\obj\Debug\net8.0\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_008\Factorial\obj\Debug\net8.0\Factorial.sourcelink.json
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_008\Factorial\bin\Debug\net8.0\Factorial.exe
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_008\Factorial\bin\Debug\net8.0\Factorial.deps.json
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_008\Factorial\bin\Debug\net8.0\Factorial.runtimeconfig.json
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_008\Factorial\bin\Debug\net8.0\Factorial.dll
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_008\Factorial\bin\Debug\net8.0\Factorial.pdb
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_008\Factorial\obj\Debug\net8.0\Factorial.dll
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_008\Factorial\obj\Debug\net8.0\refint\Factorial.dll
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_008\Factorial\obj\Debug\net8.0\Factorial.pdb
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_008\Factorial\obj\Debug\net8.0\Factorial.genruntimeconfig.cache
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_008\Factorial\obj\Debug\net8.0\ref\Factorial.dll

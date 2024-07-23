@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Reverse-Chain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c5bbcf3c0e4ca133374b02a544b05166d0ba84a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a84e37db9f5c1f2926766c220a41c28a0c3352d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Reverse-Chain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Reverse-Chain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

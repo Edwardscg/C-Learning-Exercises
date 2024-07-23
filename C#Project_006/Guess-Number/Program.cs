@@ -46,7 +46,7 @@ do
     Console.WriteLine("Gracias por jugar!");
 } while (option != 0);
 
-//Version whitout switch
+//Whitout switch
 
 // int randomNum = rmd.Next(0, 11);
 // Console.WriteLine("Adivina un número entre 0 y 10:");
