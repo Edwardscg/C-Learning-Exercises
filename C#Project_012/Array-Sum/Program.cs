@@ -170,10 +170,11 @@ do
     do
     {
         validate = false;
+
         Console.WriteLine("Desea sumar las matrices?: (s/n)");
         input = Console.ReadLine()?.ToLower();
 
-        while (input != "s" && input != "n")
+        while (input != "s" && input != "n" && input != " ")
         {
             Console.WriteLine("Error: Ingrese's' o 'n'.");
             input = Console.ReadLine()?.ToLower();
@@ -203,10 +204,7 @@ do
 
                 validate = true;
                 validateArray = true;
-
-
             }
-
         }
         else
         {
@@ -225,7 +223,7 @@ do
     Console.WriteLine("\nDesea crear otras matrices?: (s/n)");
     input = Console.ReadLine()?.ToLower();
 
-    while (input != "s" && input != "n")
+    while (input != "s" && input != "n" && input != " ")
     {
         Console.WriteLine("Error: Ingrese's' o 'n'.");
         input = Console.ReadLine()?.ToLower();
@@ -239,13 +237,6 @@ do
     {
         validateArray=true;
     }
-
-
 } while (validateArray == false);
 
 Console.WriteLine("\nGracias por utilizar la sumadora de matrices.");
-
-
-
-
-
