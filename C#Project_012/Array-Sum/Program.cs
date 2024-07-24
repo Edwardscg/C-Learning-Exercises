@@ -174,7 +174,7 @@ do
         Console.WriteLine("Desea sumar las matrices?: (s/n)");
         input = Console.ReadLine()?.ToLower();
 
-        while (input != "s" && input != "n" && input != " ")
+        while (input != "s" && input != "n")
         {
             Console.WriteLine("Error: Ingrese's' o 'n'.");
             input = Console.ReadLine()?.ToLower();
@@ -223,7 +223,7 @@ do
     Console.WriteLine("\nDesea crear otras matrices?: (s/n)");
     input = Console.ReadLine()?.ToLower();
 
-    while (input != "s" && input != "n" && input != " ")
+    while (input != "s" && input != "n" )
     {
         Console.WriteLine("Error: Ingrese's' o 'n'.");
         input = Console.ReadLine()?.ToLower();
