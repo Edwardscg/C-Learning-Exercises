@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Hanged-Game")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ba198320ac46b4059b26fd1fdd065f07eabdc3b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4b7e4de5281e95960d56c7cad841d196b2ce1de")]
 [assembly: System.Reflection.AssemblyProductAttribute("Hanged-Game")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Hanged-Game")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
