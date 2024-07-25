@@ -1,0 +1,15 @@
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_013\Fractions-Operations\obj\Debug\net8.0\Sum-Fractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_013\Fractions-Operations\obj\Debug\net8.0\Sum-Fractions.AssemblyInfoInputs.cache
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_013\Fractions-Operations\obj\Debug\net8.0\Sum-Fractions.AssemblyInfo.cs
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_013\Fractions-Operations\obj\Debug\net8.0\Sum-Fractions.csproj.CoreCompileInputs.cache
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_013\Fractions-Operations\obj\Debug\net8.0\Sum-Fractions.sourcelink.json
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_013\Fractions-Operations\bin\Debug\net8.0\Sum-Fractions.exe
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_013\Fractions-Operations\bin\Debug\net8.0\Sum-Fractions.deps.json
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_013\Fractions-Operations\bin\Debug\net8.0\Sum-Fractions.runtimeconfig.json
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_013\Fractions-Operations\bin\Debug\net8.0\Sum-Fractions.dll
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_013\Fractions-Operations\bin\Debug\net8.0\Sum-Fractions.pdb
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_013\Fractions-Operations\obj\Debug\net8.0\Sum-Fractions.dll
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_013\Fractions-Operations\obj\Debug\net8.0\refint\Sum-Fractions.dll
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_013\Fractions-Operations\obj\Debug\net8.0\Sum-Fractions.pdb
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_013\Fractions-Operations\obj\Debug\net8.0\Sum-Fractions.genruntimeconfig.cache
+C:\Users\edwar\Downloads\Programas\VsCode Project\C# - Learning exercises\C#Project_013\Fractions-Operations\obj\Debug\net8.0\ref\Sum-Fractions.dll
